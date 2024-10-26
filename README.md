@@ -64,4 +64,4 @@ print("Nilai maksimum adalah:", max_value): Setelah loop selesai (ketika penggun
 
 Contoh Jalannya Program:
 
-Jika pengguna memasukkan angka secara berurutan: 3, 7, 5, 9, 0, maka program akan menampilkan "Nilai maksimum adalah: 9".
+Jika pengguna memasukkan angka secara berurutan: 23, 42, 15, 0 maka program akan menampilkan "Nilai maksimum adalah: 42".
